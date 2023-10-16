@@ -1,0 +1,26 @@
+.navbar {
+    background-color: #1c24ba;
+    color: white;
+    padding: 10px 12px;
+    
+  }
+  
+  .navlist {
+    
+    display: flex;
+    justify-content: center;
+   
+  }
+  
+  .navItem {
+    margin: 0 15px;
+  }
+  
+  .navItem a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 2rem;
+  }
+  
+ 
